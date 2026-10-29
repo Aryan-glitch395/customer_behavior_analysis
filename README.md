@@ -40,8 +40,7 @@ The dataset was first loaded into Python for:
 | **Matplotlib / Seaborn**            | Data visualization                                    |
 | **PostgreSQL / MySQL / SQL Server** | SQL-based data analysis                               |
 | **Power BI**                        | Interactive dashboard and visualization               |
-| **Gamma**                           |
-Preparing for presentation                        |
+| **Gamma**                          |Prepared presentation on customer analysis                      |
 | **Excel**                           | Supporting data analysis, if required                 |
 
 ---
