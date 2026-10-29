@@ -28,9 +28,6 @@ The dataset was first loaded into Python for:
 * Finding inconsistent or incorrect data
 * Understanding distributions and trends
 
-> **Dataset:** `dataset.csv`
-> *(Replace this with your actual dataset name.)*
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -43,7 +40,8 @@ The dataset was first loaded into Python for:
 | **Matplotlib / Seaborn**            | Data visualization                                    |
 | **PostgreSQL / MySQL / SQL Server** | SQL-based data analysis                               |
 | **Power BI**                        | Interactive dashboard and visualization               |
-| **Gamma**                           | Presentation / PPT creation                           |
+| **Gamma**                           |
+Preparing for presentation                        |
 | **Excel**                           | Supporting data analysis, if required                 |
 
 ---
