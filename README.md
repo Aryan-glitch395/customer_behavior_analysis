@@ -152,12 +152,10 @@ The Power BI dashboard provides a consolidated view of the key business metrics 
 * **Interactive Filters**
 * **Data-driven Visualizations**
 
-> Add your Power BI dashboard screenshot here.
 
 ```text
 📷 Dashboard Preview
 
-[Insert Power BI Dashboard Screenshot]
 ```
 
 ---
