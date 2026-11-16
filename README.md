@@ -152,9 +152,10 @@ The Power BI dashboard provides a consolidated view of the key business metrics 
 * **Interactive Filters**
 * **Data-driven Visualizations**
 
+<img width="940" height="521" alt="image" src="https://github.com/user-attachments/assets/d86f5cd8-d632-4d3d-8ddd-2cde83000b1d" />
 
 ```text
-📷 Dashboard Preview
+Dashboard Preview 
 
 ```
 
